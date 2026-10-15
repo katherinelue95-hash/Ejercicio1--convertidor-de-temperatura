@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="KILA.Temperatura.UnitTestMSTest/KILA.Temperatura.UnitTestMSTest.csproj" />
+  <Project Path="KILA.Temperatura/KILA.Temperatura.csproj" />
+</Solution>
